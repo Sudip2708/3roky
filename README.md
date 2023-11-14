@@ -131,7 +131,7 @@ Hotovo! Hotovo! Hotovo! A teď už jen ta práce…
 
 A pokud jste dočetli až sem, tak tady **už se dostáváme až k dnešku.** Hledám práci a potřeboval bych ji najít rychle. Podpora už nepřijde, a tak jde trochu i o život 😊 Uvědomuji si, že jsem stále na začátku, a to co umím, bude asi všude málo. Mám ale velkou chuť dál se učit, tak věřím, že co bude třeba, rychle doženu.
 
-Od svých 21 let medituji a programování je dalším dílem skládačky. Rád bych se ubíral směrem k neuronovým sítím. Tam mě to táhne. Umělá inteligence byl jeden ze dvou hlavních důvodů, proč jsem si vybral Python. Vybírat si však v tuto chvíli moc nemohu, a tak jsem otevřen jakoukoliv práci, která by šla dělat z domu. 
+Od svých 21 let medituji a programování je dalším dílem skládačky. Rád bych se ubíral směrem k neuronovým sítím. Tam mě to táhne. Umělá inteligence byl jeden ze dvou hlavních důvodů, proč jsem si vybral Python. Vybírat si však v tuto chvíli moc nemohu, a tak jsem otevřen jakékoliv práci, která by šla dělat z domu. 
 
 Mezi mé hlavní přednosti patří od táty poděděné logické myšlení a od mámy schopnost empatie. Mínusem je určitě moje dyslexie a její dopad na rodný jazyk. Češtinu mám velmi rád, ale gramatika mi nejde. Všechno, co napíšu, musím pracně a dlouho kontrolovat, a často i přes veškerou snahu se nějaká ta chybka najde. Samotnou dyslexii však vnímám jako pozitivní věc. Dává mi schopnost odhlédnout od problémů a zaměřit se více na celek.
 

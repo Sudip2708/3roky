@@ -1,0 +1,3 @@
+Toto je první øádek souboru 07_01.txt
+Toto je druhı øádek souboru 07_01.txt
+Toto je tøetí øádek souboru 07_01.txt

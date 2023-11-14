@@ -1,0 +1,12 @@
+stvorec 280 200 150 yellow
+kruh 20 20 100 #c62e3a
+kruh 20 60 100 #7431b9
+kruh 20 100 100 #117335
+kruh 20 140 100 #32dcc7
+kruh 20 180 100 #05ac38
+kruh 20 220 100 #9b5a60
+kruh 20 260 100 #165c1c
+kruh 20 300 100 #9854e9
+kruh 20 340 100 #4ba8c0
+kruh 20 380 100 #6e7189
+text Python 200 150 red

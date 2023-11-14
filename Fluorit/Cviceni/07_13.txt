@@ -1,0 +1,12 @@
+red
+blue
+red
+blue
+yellow
+red
+yellow
+red
+green
+yellow
+yellow
+green

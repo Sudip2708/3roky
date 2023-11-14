@@ -1,0 +1,32 @@
+Dobrý den,
+
+tak i přes veškerou snahu se mi nepovedlo dokončit projekt k plné spokojenosti. 
+Původně jsem měl jako projekt zvolený program, který by umožňoval graficky vytvořit strukturu webu v Canvasu, a následně by vygeneroval HTML a CSS soubor.
+Práce mi šla pomaleji, než bych potřeboval, tak jsem se před týdnem, pro jistotu rozhodl udělat i zadané projekty.
+Ale i tady byla spotřeba času větší, než by bylo třeba.
+Dnes jsem začínal s tím, že mi už chybí jen najít způsob, jak propojit webu s Pythonem, a mám hotovo.
+A skončil jsem u učení Djanga :-D
+A protože čas už i vypršel, posílám namísto jednoho dokonalého projektu těchto 5 menších:
+
+01_projekt_bez_databaze
+Zjednodušená konzolová verze jednoduchého zadání, ochuzená o propojení s databází (data se ukládají pouze do seznamu třídy)
+
+02_databazeNoClass
+Základní funkce napsané v Pythonu pro práci s SQlite3
+
+03_databaseClass
+Definice třídy a metod pro vytvoření a editaci databáze a databázových tabulek
+
+04_database_canvas
+Gui vytvořené v Canvasu propojené s SQlite databází - částečně funkční, ale nedokončený program, který má hotové vyhledávání a rozklikávací tabulku.
+V plánu bylo dotáhnout tuto další kartu, kde by byl nejen výpis pojištěnce s možností editace, ale i tabulkový výpis jeho pojištění. 
+Které měli být také rozklikávací a editovatelné.
+Program je spustitelný a zadávání do databáze funguje (V plánu také bylo použít třídu ze složky databaseClass).
+
+05_priprava_webu
+Předevčírem jsem zjistil, že už mám jen dva dny, a tak jsem se rozhodl pro vytvoření rozhraní pro databázi na webu.
+V této složce je funkční kostra webu, která vznikala včera a dnes mělo dojít k propojení s databází, na což bohužel už ale nedošlo.
+
+Předem děkuji za shovívavost a přeji příjemný den.
+
+Dalibor

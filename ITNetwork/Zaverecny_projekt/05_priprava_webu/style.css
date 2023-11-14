@@ -1,0 +1,97 @@
+/*nastavení gridu pro celé tělo*/
+body {
+    display: grid;
+
+}
+
+
+/*nastavení gridu pro jednořádkové zobrazení na malých zařízení*/
+@media only screen and (max-width:550px) {
+    body {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 8fr ;
+
+    }
+
+    .form {
+        grid-template-columns: 1fr;
+    }
+
+
+}
+
+/*nastavení gridu pro dvouřádkové zobrazení na středních zařízení*/
+@media only screen and (min-width:550px) {
+    body {
+        grid-template-columns: 1fr 650px 1fr;
+        grid-template-rows: 1fr 10fr 1fr;
+        grid-template-areas: 
+        '. header .'
+        '. section .'
+        '. footer .';
+        
+    }
+    
+    header {
+        grid-area: header;
+    
+    }
+    
+    section {
+        grid-area: section;
+    
+    }
+    
+    footer {
+        grid-area: footer;
+    }
+    
+    .form {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+    
+    }
+
+
+}
+
+
+/*nastavení vzhledu*/
+header > * {
+    background-color: rgb(182, 182, 190);
+    padding: 10px 20px;
+    font-size: 2.5rem;
+}
+
+
+.heading > h2 {
+    padding: 20px;
+    font-size: 1.5rem;
+}
+
+.form {
+    grid-template-columns: 1fr;
+}
+
+.imput {
+    padding-left: 20px;
+}
+
+
+.button {
+    padding: 20px;
+    text-align: center;
+
+}
+
+.footer {
+    padding: 10px;
+    background-color: rgb(182, 182, 190);
+    font-size: .8rem;
+    text-align: center;
+    
+}
+.footer > p {
+    color: white;
+}
+

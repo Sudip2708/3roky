@@ -22,7 +22,7 @@ A do toho najednou přišla Rozárka. A dál už to znáte...
 
 Ačkoliv sám nejsem srdcem cestovatel, život mi dával příležitosti cestovat a já je využil. Nebál jsem se na cestování si i půjčovat. Jednak jsem měl v té době dobrou a stabilní práci, ale hlavně jsem i vytušil, že to, co se mi nabízí nyní, nemusí se už nikdy opakovat. Rád jsem ty peníze dal a dodnes nelituji. A to říkám z pozice, kdy vše už je splaceno.
 
-Do konce života budu těžit z toho, co jsem v mládí za tyto 3 poslední roky života zažil. Navíc i tyto 3 roky byly tak přínosné. Jak bych mohl litovat něčeho, co bylo pro mě dobré. Život je krásný. A zbyla jen vděčnost.
+Do konce života budu těžit z toho, co jsem v mládí za tyto 3 poslední roky života zažil. Navíc i tyto 3 roky byly tak přínosné. Jak bych mohl litovat. Život je krásný. A zbyla jen vděčnost.
 
 ![Já u výhledu na San Francisko](../Obrazky/Ostatni/SanFrancisko.jpg)
 

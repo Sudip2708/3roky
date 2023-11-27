@@ -4,7 +4,7 @@
 
 # Pes, který mě naučil programovat
 
-### 7. 10. 2020
+### 7. října 2020
 
 **Je tu!** Už potřetí vidím na tom samém místě stejného pejska. Malou tulačku, plnou špinavých dredů. 
 
@@ -135,7 +135,7 @@ Od svých 21 let medituji a programování je dalším dílem skládačky. Rád 
 
 Mezi mé hlavní přednosti patří od táty poděděné logické myšlení a od mámy schopnost empatie. Mínusem je určitě moje dyslexie a její dopad na rodný jazyk. Češtinu mám velmi rád, ale gramatika mi nejde. Všechno, co napíšu, musím pracně a dlouho kontrolovat, a často i přes veškerou snahu se nějaká ta chybka najde. Samotnou dyslexii však vnímám jako pozitivní věc. Dává mi schopnost odhlédnout od problémů a zaměřit se více na celek.
 
-O peníze tolik nejde. Momentálně mi stačí přežít a tak rád budu pracovat i za minimální plat. Rád bych se ale dál rozvíjel, a tak ideální práce je s dobrými lidmi, od kterých bych se mohl učit. Anebo práce na částečný úvazek.
+O peníze tolik nejde. Rád bych se ale dál rozvíjel, a tak ideální práce je s dobrými lidmi, od kterých bych se mohl učit. Anebo práce na částečný úvazek.
 
 Jestli takovouto práci najdu, nevím. A kdo ví, třeba jste to vy, kdo mi ji nabídne. Pokud jste to vy, pak už teď se těším na spolupráci. A pokud ne, pak velmi moc děkuji za přečtení tohoto textu a doufám, že jsem vás alespoň trochu pobavil.  
 A všem vám přeji příjemný život, plný radosti a vnitřní pohody.

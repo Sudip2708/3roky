@@ -148,7 +148,7 @@ Dalibor Sova
 > [*"Mimoškolní aktivita"*](/Texty/Mimoskolni_aktivita.md)   
 > [*LinkedIn*](https://www.linkedin.com/in/dalibor-sudip-sova/)   
 > [*Facebook*](https://www.facebook.com/sudip.sova/)  
-> [*Životopis*](/Obrazky/CV_CZ_DaliborSova_231024.pdf)  
+> [*Životopis*](/Obrazky/CV_CZ_DaliborSova_231130.pdf)  
 
 [*Zpátky úplně až nahoru*](https://github.com/Sudip2708/3roky)
 

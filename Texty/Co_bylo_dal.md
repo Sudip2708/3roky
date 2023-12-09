@@ -50,6 +50,5 @@ S Rozárky se stal můj poklad největší.
 
 ![Rozárka odpočívá na hrudníku](../Obrazky/Rozarka/Rozarka_se_mnou_20220529b.jpg)
 
-[*Zpátky na hlavní stránku*](https://github.com/Sudip2708/3roky#7-10-2020)
-
+[*Zpátky na hlavní stránku*](https://github.com/Sudip2708/3roky#7-%C5%99%C3%ADjna-2020)
 

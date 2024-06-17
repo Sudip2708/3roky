@@ -157,11 +157,11 @@ Půl roku uběhlo od data posledního zápisu a rád bych tu shrnul, co se za tu
 
 V prosinci jsem dostal zkušební zadání, které mělo ověřit moje schopnosti programovat v Django, což je další framework pro tvorbu webových aplikací. Brzy se však ze zkušebního zadání stalo učební zadání, protože jsem zjistil, že je toho hodně, co ještě neumím. Došel jsem k myšlence, že jestli si chci s klidným svědomím říct o peníze za podobnou práci, musím se ještě chvíli učit.
 
-Původně jsem to viděl tak na měsíc a s chutí začal. Z měsíce se nakonec vyklubalo skoro půl roku, ale teď už mám vše hotovo a to včetně prezentačního videa. To byl poslední bod na dlouhém seznamu věcí, které bylo potřeba udělat předtím, než znovu začnu hledat práci.
+Původně jsem to viděl tak na měsíc a s chutí začal. Z měsíce se nakonec vyklubalo skoro půl roku. Teď už mám ale vše hotovo a to i včetně prezentačního videa. To byl posledním bodem na dlouhém seznamu věcí, které jsou potřeba udělat předtím, než si znovu začnu hledat práci.
 
 Nyní je tedy vše hotovo a ode dneška hledám znovu práci!
-K práci jsem se naučil využívat pomoc, kterou nabízí umělá inteligence (hlavně ChatGPT), takže se nyní i díky ní cítím o hodně silnější a již se nebojím žádné výzvy.
-Bude-li to stačit na práci z domova, teprve uvidím, ale vnitřně jsem optimista a věřím, že ano :-)
+K práci jsem se naučil využívat pomoc, kterou nabízí umělá inteligence (hlavně ChatGPT), takže se nyní cítím o hodně silnější a nebojím se žádné výzvy.
+Bude-li to stačit na práci z domova, to teprve uvidím, ale vnitřně jsem optimista a tak věřím, že ano :-) :-) :-)
 
 > [*• Prezentační video*](https://youtu.be/KOqlBM_7sdk)  
 > [*• DjangoBlogWeb*](https://github.com/Sudip2708/DjangoBlogWeb)   

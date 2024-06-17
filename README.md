@@ -107,7 +107,7 @@ A ono to najednou šlo. A složitost mizela s každým dalším krokem. A najedn
 
 ![Pohodlí pro práci doma](Obrazky/Rozarka/Rozarka_doma_20231106a.jpg)
 
-> *Odkaz na stránku:* [*Poustovnik.fun*](https://poustovnik.fun) 
+> *Odkaz na stránku: (stránce vypršelo bezplatné období a již není k dispozici)*
 
 #
 ### 31. října 2023
@@ -133,7 +133,7 @@ A pokud jste dočetli až sem, tak tady **už se dostáváme až k dnešku.** Hl
 
 Od svých 21 let medituji a programování je dalším dílem skládačky. Rád bych se ubíral směrem k neuronovým sítím. Tam mě to táhne. Umělá inteligence byl jeden ze dvou hlavních důvodů, proč jsem si vybral Python. Vybírat si však v tuto chvíli moc nemohu, a tak jsem otevřen jakékoliv práci, která by šla dělat z domu. 
 
-Mezi mé hlavní přednosti patří od táty poděděné logické myšlení a od mámy schopnost empatie. Mínusem je určitě moje dyslexie a její dopad na rodný jazyk. Češtinu mám velmi rád, ale gramatika mi nejde. Všechno, co napíšu, musím pracně a dlouho kontrolovat, a často i přes veškerou snahu se nějaká ta chybka najde. Samotnou dyslexii však vnímám jako pozitivní věc. Dává mi schopnost odhlédnout od problémů a zaměřit se více na celek.
+Mezi mé hlavní přednosti patří od táty poděděné logické myšlení a od mámy schopnost empatie. Mínusem je určitě moje dyslexie a její dopad na rodný jazyk. Což tedy dnes je již snadno řešitelné. A plusem je určitě dislexie a z ní poděděná schopnost odhlédnout od drobných problémů a zaměřit se více na celek.
 
 O peníze tolik nejde. Rád bych se ale dál rozvíjel, a tak ideální práce je s dobrými lidmi, od kterých bych se mohl učit. Anebo práce na částečný úvazek.
 
@@ -145,10 +145,26 @@ Dalibor Sova
 
 ![Rozárka se mnou a na sluníčku](Obrazky/Rozarka/Rozarka_se_mnou_20220709.jpg)
 
-> [*"Mimoškolní aktivita"*](/Texty/Mimoskolni_aktivita.md)   
-> [*LinkedIn*](https://www.linkedin.com/in/dalibor-sudip-sova/)   
-> [*Facebook*](https://www.facebook.com/sudip.sova/)  
-> [*Životopis*](/Obrazky/CV_CZ_DaliborSova_231130.pdf)  
+> [*• Životopis*](https://github.com/Sudip2708/Curriculum-Vitae)  
+> [*• LinkedIn*](https://www.linkedin.com/in/dalibor-sudip-sova/)   
+> [*• Facebook*](https://www.facebook.com/sudip.sova/)  
+> [*• Mimoškolní aktivita*](/Texty/Mimoskolni_aktivita.md)   
+
+#
+### 17. črvna 2024
+
+Půl roku uběhlo od data posledního zápisu a rád bych tu shrnul, co se za tu dobu stalo :-)
+
+V prosinci jsem dostal zkušební zadání, které mělo ověřit moje schopnosti programovat v Django, což je další framework pro tvorbu webových aplikací. Brzy se však ze zkušebního zadání stalo učební zadání, protože jsem zjistil, že je toho hodně, co ještě neumím. Došel jsem k myšlence, že jestli si chci s klidným svědomím říct o peníze za podobnou práci, musím se ještě chvíli učit.
+
+Původně jsem to viděl tak na měsíc a s chutí začal. Z měsíce se nakonec vyklubalo skoro půl roku, ale teď už mám vše hotovo a to včetně prezentačního videa. To byl poslední bod na dlouhém seznamu věcí, které bylo potřeba udělat předtím, než znovu začnu hledat práci.
+
+Nyní je tedy vše hotovo a ode dneška hledám znovu práci!
+K práci jsem se naučil využívat pomoc, kterou nabízí umělá inteligence (hlavně ChatGPT), takže se nyní i díky ní cítím o hodně silnější a již se nebojím žádné výzvy.
+Bude-li to stačit na práci z domova, teprve uvidím, ale vnitřně jsem optimista a věřím, že ano :-)
+
+> [*• Prezentační video*](https://youtu.be/KOqlBM_7sdk)  
+> [*• DjangoBlogWeb*](https://github.com/Sudip2708/DjangoBlogWeb)   
 
 [*Zpátky úplně až nahoru*](https://github.com/Sudip2708/3roky)
 

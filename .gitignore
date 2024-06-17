@@ -1,0 +1,14 @@
+# Ignorovat Python soubory a adresáře
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorovat virtuální prostředí
+venv/
+
+# Ignorovat konfigurace PyCharm
+.idea/
+
+# Ignorovat specifické soubory nebo složky
+path/to/your/file.txt
+path/to/your/directory/
